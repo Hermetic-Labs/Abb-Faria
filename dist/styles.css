@@ -380,6 +380,13 @@ a:focus-visible {
   line-height: 0.92;
 }
 
+.section-intro {
+  max-width: 46rem;
+  margin: -1rem 0 3.5rem;
+  color: var(--muted-light);
+  font-size: clamp(1rem, 1.25vw, 1.16rem);
+}
+
 .fit-copy {
   grid-column: 2;
   display: grid;
@@ -621,6 +628,11 @@ blockquote footer {
 
 .guardrails li span {
   font-size: 1.02rem;
+}
+
+.guardrails li strong {
+  color: var(--paper);
+  font-weight: 700;
 }
 
 .guardrails li small {

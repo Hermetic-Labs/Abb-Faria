@@ -1,9 +1,10 @@
 # Abbé Faria
 
-Abbé Faria is an early Hermetic Labs research project exploring a local
-intelligence and learning layer for established U.S. correctional technology
-platforms. It is designed around existing approved integration surfaces,
-managed endpoints, and operator-controlled policy boundaries.
+Abbé Faria is an early Hermetic Labs research project exploring a sealed
+educational computing environment for established U.S. correctional technology
+platforms. Its first proposed application is an institution-governed learning
+assistant operating only from approved material, with a broader learning,
+re-entry, and immersive workspace beneath it.
 
 The public partner brief is a dependency-free static site in `dist/`. Changes
 to `main` deploy through GitHub Pages. The extracted visual system, source image
